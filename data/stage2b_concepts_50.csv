@@ -1,0 +1,51 @@
+concept_id,concept,category
+S2B001,fire,concrete_object
+S2B002,cherry blossoms,concrete_object
+S2B003,charcoal,concrete_object
+S2B004,coffee,concrete_object
+S2B005,emerald gemstones,concrete_object
+S2B006,honey,concrete_object
+S2B007,mint leaves,concrete_object
+S2B008,peacock,concrete_object
+S2B009,roses,concrete_object
+S2B010,watermelon,concrete_object
+S2B011,Arctic sea,nature_environment
+S2B012,beach sand,nature_environment
+S2B013,coral reef,nature_environment
+S2B014,desert dunes,nature_environment
+S2B015,forest,nature_environment
+S2B016,green fields,nature_environment
+S2B017,lavender fields,nature_environment
+S2B018,ocean,nature_environment
+S2B019,sandy beach,nature_environment
+S2B020,volcanic lava,nature_environment
+S2B021,autumn leaves,seasonal_atmospheric
+S2B022,clear night sky,seasonal_atmospheric
+S2B023,cloudy sky,seasonal_atmospheric
+S2B024,fresh snow,seasonal_atmospheric
+S2B025,moonlight,seasonal_atmospheric
+S2B026,morning fog,seasonal_atmospheric
+S2B027,spring rain,seasonal_atmospheric
+S2B028,storm,seasonal_atmospheric
+S2B029,sunset,seasonal_atmospheric
+S2B030,twilight,seasonal_atmospheric
+S2B031,dramatic,abstract_mood
+S2B032,dreamy,abstract_mood
+S2B033,earthy,abstract_mood
+S2B034,elegant,abstract_mood
+S2B035,energetic,abstract_mood
+S2B036,futuristic,abstract_mood
+S2B037,luxurious,abstract_mood
+S2B038,melancholic,abstract_mood
+S2B039,mysterious,abstract_mood
+S2B040,playful,abstract_mood
+S2B041,candlelit room,compositional_complex
+S2B042,desert sunset,compositional_complex
+S2B043,foggy mountain landscape,compositional_complex
+S2B044,misty forest,compositional_complex
+S2B045,moonlit ocean,compositional_complex
+S2B046,moonlit snowy field,compositional_complex
+S2B047,rainy autumn afternoon,compositional_complex
+S2B048,rainy city at night,compositional_complex
+S2B049,snowy pine forest,compositional_complex
+S2B050,volcanic landscape at dusk,compositional_complex
